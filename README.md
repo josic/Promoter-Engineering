@@ -20,3 +20,6 @@ denoting repressed state (ie repressed = -, unrepressed = +).  In the spreasheet
 
 The R files contain the code that was used to fit the model to the data by minimizing
 the objective function specified in the Supplentary material. 
+
+The remaining files contain the parameters obtained after fitting the data, as well as the predicted
+"Scores" for the different conditions and models.
