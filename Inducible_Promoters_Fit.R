@@ -29,6 +29,16 @@ if (Las == 1) {sheetIndexBasal <- 3
 #3 - Las Basal
 #4 - Las induced
 
+# The other conditions correspond to the following 
+# alphabetic notation in the manuscript, and corresponding sequences
+
+# a	- baseline or 1 -	CCCGGG
+# b	- 5 -	CTGACA
+# c	- 4	-	TTGTGA
+# d	- 2	-	TTTACA
+# e	- 3	-	TAGACA
+# f	- 6	- TTGACA
+
 
 
 df1 <- read.xlsx(fname,sheetIndex = sheetIndexBasal)
