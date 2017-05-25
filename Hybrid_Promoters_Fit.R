@@ -24,7 +24,18 @@ library(xlsx)
 # 3 - this is the -/+ state in the notes, uninduced
 # 4 - this is the +/+ state in the notes, activator, but no repression
 
+# The other conditions correspond to the following 
+# alphabetic notation in the manuscript, and corresponding sequences
 
+# A - baseline or	1	- 	CCAGTC
+# B	- 2	-	TATGTT
+# C -	6 -	TACTGT
+# D	- 5	-	TAAATT
+# E	- 4	-	GATACT
+# F	- 7	-	GATAAT
+# G	- 3	-	TATAGT
+# H	- 8	-	TATAAT
+a
 
 fname <- "Hybridpromoterdata.xlsx"
 
